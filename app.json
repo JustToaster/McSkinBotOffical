@@ -1,18 +1,4 @@
 {
   "name": "McSkinBotOffical",
-  "description": "McSkinBot the Bot is Here!",
-  "scripts": {
-  },
-  "env": {
-  },
-  "formation": {
-  },
-  "addons": [
-
-  ],
-  "buildpacks": [
-    {
-      "url": "nodejs/discord.js/node-opus/ffmpeg"
-    }
-  ]
+  "description": "McSkinBot the Bot is Here!"
 }
