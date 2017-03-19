@@ -2,7 +2,7 @@
 const Botid = "<@275746862877769728>"
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const Random = 'sffhjdhgjzd;gfjgh;dgjudfijgdgh;dfjghf;dyghry9erygfdgdfjgf;dgjdfgdfg][dfpgsdghfdajgsdfjghf;daghdafpjgf;ldh;ogfud0gfgh]sdigf0=edg9igdfgfdlgkmdf';
+const Random = 'nothing to see here folks -_-';
 const Cleverbot = require('cleverbot-node');
 const clbot = new Cleverbot;
 const config = require('./config.json');
